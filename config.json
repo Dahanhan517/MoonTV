@@ -85,5 +85,17 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+    "haohua": {
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "name": "豪华资源"
+    }
+    "yinghua": {
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "name": "樱花动漫"
+    }
+    "haohua": {
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "name": "索尼"
+    }
   }
 }
